@@ -22,7 +22,7 @@ body {
     height: 200px;
     text-transform: uppercase;
     background-repeat: no-repeat;
-    border: 0;
+    border: 2px solid #fff;
     color: white;
     font-size: 18px;;
     padding: 10px;
